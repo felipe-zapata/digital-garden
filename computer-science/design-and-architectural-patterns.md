@@ -15,3 +15,4 @@
 * [System Design Interview – An Insider's Guide: Volume 2](https://www.amazon.com/dp/1736049119)
 * [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
 * [https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449/](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449/)
+* [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/)

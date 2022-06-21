@@ -10,6 +10,9 @@
 * [ ] [Become an Effective Software Engineering Manager](https://www.oreilly.com/library/view/become-an-effective/9781680507867/)
 * [ ] [Engineering Management for the Rest of Us by Sarah Drasner](https://www.engmanagement.dev/)
 * [ ] [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186/ref=sr\_1\_1?crid=3LSD6996WWUT0\&dchild=1\&keywords=will+larson+an+elegant+puzzle\&qid=1621323821\&sprefix=will+larson%2Caps%2C246\&sr=8-1)
+* [ ] [RFCs and Design Docs](https://blog.pragmaticengineer.com/rfcs-and-design-docs/)
+* [ ] [How to drive decisions as an engineering leader](https://leaddev.com/technical-decision-making/how-drive-decisions-engineering-leader?utm\_term=Autofeed\&utm\_medium=Social\&utm\_source=Twitter#Echobox=1648470362)
+*
 
 ### Courses
 

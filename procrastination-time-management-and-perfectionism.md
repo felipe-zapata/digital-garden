@@ -5,6 +5,7 @@
 ### Articles
 
 * [x] [Extreme productivity](https://hbr.org/2011/05/managing-yourself-extreme-productivity)
+* [ ] [How to stop procrastinating](https://sahilbloom.substack.com/p/how-to-stop-procrastinating?s=w#details)
 
 ### Books
 

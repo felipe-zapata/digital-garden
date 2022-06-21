@@ -17,3 +17,5 @@
 [Unit testing on Strapi](https://docs.strapi.io/developer-docs/latest/guides/unit-testing.html#install-test-tools)
 
 [Storybook interaction testing launch](https://storybook.js.org/blog/storybook-6-5/)
+
+[Test component interactions with storybook](https://storybook.js.org/blog/test-component-interactions-with-storybook/)
