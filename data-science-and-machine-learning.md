@@ -24,6 +24,10 @@
 * [ ] [Designing Machine Learning Systems Production Ready](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 * [ ] [Machine Learning for Algorithmic Trading](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715)
 
+### Articles
+
+* [ ] [MLOps - tools, best practices, and case studies](https://huyenchip.com/mlops/)
+
 ### Videos
 
 <details>
@@ -31,6 +35,8 @@
 <summary><a href="https://www.youtube.com/watch?v=Ta14KpeZJok">Machine Learning Engineering for Production (MLOps)</a></summary>
 
 Models on production need to iterate faster depending on the domain. i.e. Language does not evolve as fast as the stock market.
+
+Phases: Scale, monitoring
 
 </details>
 
