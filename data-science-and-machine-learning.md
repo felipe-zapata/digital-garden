@@ -14,6 +14,7 @@
 * [ ] [Georgia Tech OMS CS](https://www.cc.gatech.edu/future/masters/mscs/program)
 * [ ] [Fast.ai](https://www.fast.ai/)
 * [ ] [Deep learning NYU](https://atcold.github.io/NYU-DLSP21/)
+* [ ] [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?utm\_source=deeplearning-ai\&utm\_medium=institutions\&utm\_campaign=20210423-mlep-1-deeplearning-ai-institutions-dlai-website)
 
 ### Books
 
@@ -27,6 +28,8 @@
 ### Articles
 
 * [ ] [MLOps - tools, best practices, and case studies](https://huyenchip.com/mlops/)
+* [ ] [Using FastAPI to deploy Machine Learning models](https://engineering.rappi.com/using-fastapi-to-deploy-machine-learning-models-cd5ed7219ea)
+* [ ] [Big Data in Little Wordle](https://towardsdatascience.com/big-data-in-little-wordle-306d5502c4d9)
 
 ### Videos
 
@@ -44,3 +47,6 @@ Phases: Scale, monitoring
 
 * [ ] [UN Handbook on Privacy-Preserving Computation Techniques](https://unstats.un.org/bigdata/task-teams/privacy/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf)
 
+### Tools
+
+* [Huggingface transformers](https://huggingface.co/docs/transformers/index)

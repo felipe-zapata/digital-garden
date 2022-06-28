@@ -18,6 +18,7 @@
   * [UK](emigration/uk.md)
   * [Sweden](emigration/sweden.md)
 * [Engineering management](engineering-management/README.md)
+  * [Developer experience](engineering-management/developer-experience.md)
   * [Growth framework](engineering-management/growth-framework.md)
   * [Project management](engineering-management/project-management.md)
   * [Risk management](engineering-management/risk-management.md)

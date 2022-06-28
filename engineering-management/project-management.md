@@ -2,7 +2,12 @@
 
 ## Resources
 
+
+
 ### Articles
+
+* [ ] [Metrics-driven engineering leadership: How to elevate the visibility of your distributed team](https://www.netlify.com/blog/2020/09/22/metrics-driven-engineering-leadership-how-to-elevate-the-visibility-of-your-distributed-team/)
+*
 
 <details>
 
@@ -31,5 +36,7 @@ __[_Linear_](https://linear.app/), tool to check.
 
 * No "central" methodology.
 * _Methodology "typically used":_ Plan (6-pager, RFC, Design Doc, ERD) -> Build (iterate) -> Ship, or GSD (Get Shit Done, 6-week cycles).
+* Who leads?, Tech lead or an engineer.
+*
 
 </details>
