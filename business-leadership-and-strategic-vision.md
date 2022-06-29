@@ -15,8 +15,6 @@
 * [ ] [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/dp/B081Y3R657/ref=dp-kindle-redirect?\_encoding=UTF8\&btkr=1)
 * [ ] [Who](https://www.amazon.com/Who-Geoff-Smart/dp/0345504194/ref=sr\_1\_2?crid=2KPS7IKWG7PIS\&keywords=who\&qid=1652466950\&sprefix=who%2Caps%2C187\&sr=8-2)
 * [ ] [Timeless Career Advice for Software Engineers](https://lbacaj.gumroad.com/l/career-advice-for-engineers)
-* [ ] [Recommended readings for strategic planning and a potential recession](https://bunnystudio.atlassian.net/wiki/spaces/HAN/blog/2022/06/14/2915926123/Recommended+readings+for+strategic+planning+and+a+potential+recession)
-* [ ] [Financial Management for Technology Start-Ups: How to Power Growth, Track Performance and Drive Innovation](https://www.amazon.com/-/es/Alnoor-Bhimani/dp/1398603066)
 
 ### Course
 

@@ -16,4 +16,3 @@
 * [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
 * [https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449/](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449/)
 * [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/)
-* [Chaos Engineering and Observability with Visual Metaphors](https://www.infoq.com/articles/chaos-engineering-observability-visual-metaphors/)

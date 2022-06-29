@@ -16,7 +16,3 @@
 
 ### Articles
 
-* [ ] [Shipping to Production](https://blog.pragmaticengineer.com/shipping-to-production/)
-* [ ] [The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling](https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling)
-* [ ] [Dora metrics](https://www.leanix.net/en/wiki/vsm/dora-metrics)
-* [ ] [A beginner’s guide to CI/CD and automation on GitHub](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)

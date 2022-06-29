@@ -36,7 +36,13 @@ __[_Linear_](https://linear.app/), tool to check.
 
 * No "central" methodology.
 * _Methodology "typically used":_ Plan (6-pager, RFC, Design Doc, ERD) -> Build (iterate) -> Ship, or GSD (Get Shit Done, 6-week cycles).
-* Who leads?, Tech lead or an engineer.
-*
+* Who leads?, Tech lead or an engineer. No dedicated project managers.
+* First-class developer tooling is a given
+* Don't copy it, you would likely fail. _This is because the organizational structure of Big Tech greatly impacts how teams can – and do – execute._
+* __
 
 </details>
+
+### Tools
+
+* [Linear](https://linear.app/method)
