@@ -62,6 +62,28 @@ Ideas for 1<>1's, strengthen relationships\
 * [ ] [What Engineering Managers Should Do (and Why We Don’t) • Lena Reinhard • GOTO 2019](https://www.youtube.com/watch?v=Q\_bJVokYLRI)
 * [ ] [Engineering Manager Mock Interview ft. Robinhood EM](https://www.youtube.com/watch?v=sOX\_Xl1TKic)
 
+<details>
+
+<summary><a href="https://www.youtube.com/watch?v=Kn5MbZoSRNM">From Burn-Out to $100M in ARR with Jason Cohen, Founder of WP Engine</a></summary>
+
+Hire object-oriented people
+
+![](<../.gitbook/assets/image (2).png>)Needs to be done well
+
+![](<../.gitbook/assets/image (1).png>)
+
+![](../.gitbook/assets/image.png)_Servant leadership_
+
+_Need_ is company needs
+
+Startups always are constraint by time even more than money
+
+_"The best leaders, the people do not know they have them, the lesser leaders are loved and praised, even lesser are feared and the least are despised. Those leaders who show no trust will not be trusted. Those leaders who are quiet, their words are valued. With the best leaders, when the people's task is completed, the people will say we did it ourselves." (_Lao Tzu - Tao Te Ching Chapter 17)
+
+_"Hire the right people and let them do it themselves. Be a shepherd, not an emperor. Be an editor, not a tyrant. Do the hard things that are the right things and set your ego aside, because remember, no matter what, you will still get the credit."_
+
+</details>
+
 ### Blogs
 
 * [Pat Kua Blog](https://www.patkua.com/blog/)
