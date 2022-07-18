@@ -8,6 +8,7 @@
   * [Design and architectural patterns](computer-science/design-and-architectural-patterns.md)
   * [DevOps](computer-science/devops.md)
   * [Programming languages](computer-science/programming-languages/README.md)
+    * [Cuda](computer-science/programming-languages/cuda.md)
     * [Flutter](computer-science/programming-languages/flutter.md)
     * [Python](computer-science/programming-languages/python.md)
     * [Javascript](computer-science/programming-languages/javascript/README.md)
