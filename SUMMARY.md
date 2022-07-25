@@ -16,6 +16,7 @@
     * [Javascript](computer-science/programming-languages/javascript/README.md)
       * [Just Javascript notes](computer-science/programming-languages/javascript/just-javascript-notes.md)
   * [Technical Interviews](computer-science/technical-interviews/README.md)
+    * [Frontend interviews](computer-science/technical-interviews/frontend-interviews.md)
     * [Job boards](computer-science/technical-interviews/job-boards.md)
   * [Testing](computer-science/testing.md)
 * [Data science and Machine Learning](data-science-and-machine-learning.md)

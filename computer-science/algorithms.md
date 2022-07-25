@@ -1,3 +1,7 @@
+---
+description: Potential algorithms in a big tech company interview
+---
+
 # Algorithms
 
 ## Resources
@@ -9,3 +13,29 @@
 * [ ] [Data Structures & Algorithms – Google Tech Dev Guide](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 * [ ] [The big O notation](https://towardsdatascience.com/the-big-o-notation-d35d52f38134)
 * [ ] [Efficient Algorithms and Intractable Problems](https://cs170.org/)
+
+## List
+
+### Sorting algorithms
+
+#### Merge sort
+
+#### Quick sort
+
+#### Insertion sort
+
+### Searching algorithms
+
+#### Binary search
+
+#### Depth-first search
+
+#### Breadth-first search
+
+#### Tree traversals
+
+## Concepts
+
+### Big-O Notation
+
+### Recursion
