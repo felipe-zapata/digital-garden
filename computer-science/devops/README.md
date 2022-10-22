@@ -14,6 +14,7 @@
 
 * [ ] [SRE Google Workbook](https://sre.google/workbook/table-of-contents/)
 * [ ] [Web Scalability for Startup Engineers](https://www.amazon.com/dp/0071843655)
+* [ ] [Observability Engineering: Achieving Production Excellence](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449/)
 
 ### Articles
 

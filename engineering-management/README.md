@@ -23,6 +23,7 @@
 * [ ] [Why honeycomb? Observability](https://www.honeycomb.io/why-honeycomb/)
 * [ ] [Team Topologies](https://teamtopologies.com/)
 * [ ] [TEN PLATFORM COMMANDMENTS](https://charity.wtf/2018/10/24/ten-platform-commandments/)
+* [ ] [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/)
 
 ### Courses
 
