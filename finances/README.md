@@ -8,4 +8,4 @@
 
 ### Articles
 
-*
+* [ ] [Broker para noobs como yo](https://gioyik.com/p/broker-para-noobs-como-yo)

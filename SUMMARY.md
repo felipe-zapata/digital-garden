@@ -34,6 +34,8 @@
   * [Equity](finances/equity.md)
 * [Fitness](fitness.md)
 * [Math](math.md)
+* [Philosophy](philosophy/README.md)
+  * [Estanislao Zuleta](philosophy/estanislao-zuleta.md)
 * [Procrastination, time management, and perfectionism](procrastination-time-management-and-perfectionism/README.md)
   * [Podcasts](procrastination-time-management-and-perfectionism/podcasts.md)
 * [Proyects](proyects/README.md)
