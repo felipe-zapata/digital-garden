@@ -7,7 +7,6 @@
 ### Articles
 
 * [ ] [Metrics-driven engineering leadership: How to elevate the visibility of your distributed team](https://www.netlify.com/blog/2020/09/22/metrics-driven-engineering-leadership-how-to-elevate-the-visibility-of-your-distributed-team/)
-*
 
 <details>
 

@@ -1,5 +1,0 @@
-# Philosophy
-
-## Summaries
-
-* Estanislao Zuleta
