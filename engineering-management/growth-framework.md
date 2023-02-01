@@ -10,4 +10,5 @@
 * [ ] [Engineering Career Development at Netlify](https://www.netlify.com/blog/2021/01/21/engineering-career-development-at-netlify/)
 * [ ] [Creating an early career plan that grows as you do Professional development Scroll down](https://leaddev.com/professional-development/creating-early-career-plan-grows-you-do?utm\_term=Autofeed\&utm\_medium=Social\&utm\_source=Twitter#Echobox=1655856744)
 * [ ] [How to Become a Staff-Plus Engineer](https://www.infoq.com/news/2022/06/become-staff-plus-engineer/)
-*
+* [ ] [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/dp/B08RMSHYGG)
+* [ ] [Leading snowflakes](https://leadingsnowflakes.com/)
