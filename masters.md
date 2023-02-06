@@ -196,7 +196,7 @@ description: Let's check options (in computer science)
 * **Link:** [MIT Leaders for global operations](https://lgo.mit.edu/engineering/electrical-engineering-and-computer-science/)
 * **Additional notes:**&#x20;
   * Dual degree in MBA and EECS.
-  * 3.6 average GPA
+  * 3.6/5.0 average GPA
   * 160-169 GRE - 670-770 GMAT
   * On average, an LGO student not sponsored by a company will receive a fellowship award that covers 55% of their total tuition. The fellowship is distributed throughout the two-year program, and is applied toward the program’s tuition costs or as a stipend.
 
@@ -206,18 +206,46 @@ description: Let's check options (in computer science)
 
 <summary>Cambridge</summary>
 
-## Master's
+## <mark style="color:red;">MPhil in Advanced Computer Science</mark>
 
 * **Cost:**&#x20;
 * **Duration:**&#x20;
 * **Requirements:**
-  *
+  * GPA 4.5/5
 * **English level requirements:**&#x20;
 * **Time commitment:**&#x20;
-* **Dates:**&#x20;
+* **Dates:** Applications for admission in October 2023 will open on 15 September 2022. Places are limited and applicants are encouraged to apply early. Applications will close on 25 February 2023.
 * **Places/Applications:**
-* **Link:**&#x20;
+* **Link:** [M.Phil in Advanced Computer Science (ACS)](https://www.cst.cam.ac.uk/teaching/masters)
 * **Additional notes:**&#x20;
+
+</details>
+
+<details>
+
+<summary>Imperial College London</summary>
+
+## <mark style="color:blue;">MSc Applied Computational Science and Engineering</mark>
+
+* **Cost:** £39,400 Overseas
+* **Duration:** 1 year
+* **Requirements:**
+  * GPA score of 3.75/5 or better. Preference is given to candidates with 4/5 or better.
+  * 2:1 in engineering or a science-based discipline
+* **English level requirements:** IELTS 7.0, TOEFL 100
+* **Time commitment:** Full-time
+* **Dates:** 30 June deadline
+* **Places/Applications:**
+* **Link:** [MSc Applied Computational Science and Engineering](https://www.imperial.ac.uk/study/courses/postgraduate-taught/applied-computational-science/)
+* **Additional notes:**&#x20;
+
+</details>
+
+<details>
+
+<summary>Columbia University</summary>
+
+
 
 </details>
 
@@ -225,16 +253,63 @@ description: Let's check options (in computer science)
 
 <summary>Cornell</summary>
 
-## Master's
+## <mark style="color:blue;">Master of Engineering (M.Eng.) in Computer Science</mark>
 
-* **Cost:**&#x20;
-* **Duration:**&#x20;
+* **Cost:** $29500
+* **Duration:** 1 year
 * **Requirements:**
-  *
-* **English level requirements:**&#x20;
+  * CS 2110 - Object-Oriented Programming and Data Structures
+  * CS 3110 - Data Structures and Functional Programming
+  * CS 2800 - Discrete Structures
+  * CS 3410 - Computer System Organization and Programming
+* **English level requirements:** TOEFL **** Writing (>=20), Listening (>=15), Reading (>=20), and Speaking (>=22). IELTS **7/10**&#x20;
 * **Time commitment:**&#x20;
 * **Dates:**&#x20;
-* **Places/Applications:**
+  * **October 1st** ( for Spring admissions - January start )
+  * **February 1st** ( for Fall admissions - August start )
+* **Places/Applications:** /1000
+* **Link:** [Master of Engineering (M.Eng.) in Computer Science](https://www.cs.cornell.edu/masters)
+* **Additional notes:**&#x20;
+
+## <mark style="color:blue;">Master Engineering Management</mark>
+
+* **Cost:** $31,228
+* **Duration:** Two semesters
+* **Requirements:**
+  * [Online application](http://gradschool.cornell.edu/admissions/applying/apply-now)
+  * Statement of purpose
+  * Transcripts
+  * Letters of recommendation (3)
+  * Application fee
+  * TOEFL/IELTS scores for applicants whose native language is not English
+  * Technical writing sample&#x20;
+* **English level requirements:**&#x20;
+  * TOEFL&#x20;
+    * Listening - 15
+    * Writing - 20
+    * Reading - 20
+    * Speaking - 22
+  * IELTS
+    * 7.0 or higher
+* **Time commitment:**&#x20;
+* **Dates:** February 1, 2023. October 1st
+* **Places/Applications:** 100/
+* **Link:** [Master Engineering Management](https://www.engmanagement.cornell.edu/em/programs/meng-campus/admissions)
+* **Additional notes:**&#x20;
+
+## <mark style="color:red;">Master of Science in Computer Science</mark>
+
+* **Cost:** Fully funded (tuition + stipend)
+* **Duration:** 4 semesters long
+* **Requirements:**
+  * Transcripts of all college-level work
+  * Three letters of recommendation including at least one that addresses expository skills and the ability to work in a classroom setting
+  * An essay that explains how the degree program and the anticipated thesis area resonates with your career plans.&#x20;
+  * GRE scores are optional.
+* **English level requirements:** TOEFL Scores on the Writing, Listening, and Reading components must be 24 or higher and 28 or higher for the Speaking component. IELTS scores must be 7.0 or higher.
+* **Time commitment:**&#x20;
+* **Dates:**&#x20;
+* **Places/Applications:** 15/
 * **Link:**&#x20;
 * **Additional notes:**&#x20;
 
@@ -244,6 +319,57 @@ description: Let's check options (in computer science)
 
 <summary>NYU</summary>
 
+## <mark style="color:blue;">Master in computer science (MSCS)</mark>
+
+* **Cost:** \~$19.827 per term (on 9 credits)
+* **Duration:** \~4 terms
+* **Requirements:**
+  * Minimum
+    * A completed application, including a Statement of Academic Purpose
+    * Three letters of recommendation
+    * GRE scores for all programs (GMAT or LSAT will **not** be accepted)
+    * TOEFL or IELTS scores for any student whose native language or medium of undergraduate or graduate instruction is not English
+    * A resume or CV of your work experience
+  * Successful applicants to the MS program in Computer Science will generally have the following minimum qualifications:
+    * Strong GRE Quantitative and Analytical scores. (Typical acceptable scores are near 160 for the quantitative section or 4.0 or better on the new Analytical Writing section.)
+    * Positive, specific recommendations.
+    * Strong grades in relevant courses.
+    * TOEFL, if required, above 620 (paper) or 260 (computer), or 100 (TOEFLI)
+    * IELTS, if required, minimum band score of 7.0
+* **English level requirements:** 100 TOEFLI, 7.0 IELTS
+* **Time commitment:**&#x20;
+* **Dates:** March 1, 2023.
+* **Places/Applications:**
+* **Link:** [Master in computer science (MSCS)](https://cs.nyu.edu/home/master/prospective\_mscs.html)
+* **Additional notes:** 36 credits
+
+## <mark style="color:blue;">Computer Science, M.S.</mark>
+
+* **Cost:** \~$19.827 per term (on 9 credits)
+* **Duration:** 3-4 terms
+* **Requirements:**
+  * Official transcripts
+    * 3.0 out of 4.0 GPA
+  * Statement of purpose/personal statement
+  * Resumé
+  * Letters of recommendation
+* **English level requirements:** TOEFL score of 90 on the internet-based test, an overall band of 7.0 on IELTS, a score of 125 on the Duolingo English Test, a 65 on the Pearson PTE Academics exam, or a C1 Advanced or C2 Proficiency on the Cambridge Assessment English exam.
+* **Time commitment:**&#x20;
+* **Dates:**&#x20;
+* **Places/Applications:**
+* **Link:**&#x20;
+* **Additional notes:**&#x20;
+  * **Applicants** who satisfy one of the following conditions are not required but encouraged to submit a GRE score:
+    1. M.S. Applicants without a Computer Science or similar background who successfully complete the [NYU Tandon Bridge](http://engineering.nyu.edu/academics/online/programs/bridge).
+    2. Applicant completes 9 credits under [Visiting Student Registration](http://engineering.nyu.edu/admissions/graduate/apply/visiting-students) from an approved list of CSE courses and maintains an average grade of B+ or better.
+    3. Applicant has a B.A. or B.S. degree in computer science or computer engineering from NYU, with a GPA of 3.0 or higher.
+
+</details>
+
+<details>
+
+<summary>ETH Zurich</summary>
+
 ## Master's
 
 * **Cost:**&#x20;
@@ -261,8 +387,37 @@ description: Let's check options (in computer science)
 
 <details>
 
-<summary>ETH Zurich</summary>
+<summary>Columbia</summary>
 
+## <mark style="color:purple;">**Ms in Computer Science Program**</mark>
 
+* **Cost:** $2.362 per credit
+* **Duration:** Full-time registration requirement
+* **Requirements:**
+  * Transcripts from every post-secondary institution attended (Successful applicants typically have a GPA of 3.5 or higher.)
+  * Three recommendation letters
+  * Official [**Graduate Record Examination**](http://www.gre.org/) **** (GRE) General Test Scores\*&#x20;
+    * **Optional for Spring and Fall 2023 applications**
+    * School Code: 2111
+    * Most admitted applicants, however, have scores of 750 or higher on the Quantitative section of the test.
+  * Personal statement
+  * Resumé or Curriculum Vitae
+* **English level requirements:** For Internet-based TOEFL test, we recommend a total score of 101. For IELTS, 7
+* **Time commitment:**&#x20;
+* **Dates:** Computer Science - January 15 (Priority), February 15th (Regular) / November 15
+* **Places/Applications:**
+* **Link:**&#x20;
+* **Additional notes:**&#x20;
+  * Students can choose from one of the tracks below. See track webpages for details on track requirements.
+    * [Computational Biology](http://www.cs.columbia.edu/education/ms/computationalBiology)[\
+      Computer Security](http://www.cs.columbia.edu/education/ms/newComputerSecurity)[\
+      Foundations of Computer Science](http://www.cs.columbia.edu/education/ms/foundationsOfCS)[\
+      Machine Learning](http://www.cs.columbia.edu/education/ms/machineLearning) \*[\
+      Natural Language Processing](http://www.cs.columbia.edu/education/ms/nlp)[\
+      Network Systems](http://www.cs.columbia.edu/education/ms/networkSystems)[\
+      Software Systems](http://www.cs.columbia.edu/education/ms/softwareSystems)[\
+      ](http://www.cs.columbia.edu/education/ms/visionAndGraphics)[Vision, Graphics, Interaction, and Robotics](http://www.cs.columbia.edu/education/ms/visionAndGraphics)[\
+      MS Personalized](http://www.cs.columbia.edu/education/ms/MSpersonalized)[\
+      MS Thesis](http://www.cs.columbia.edu/education/ms/MSThesis)
 
 </details>
