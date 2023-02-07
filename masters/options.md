@@ -245,14 +245,6 @@ description: >-
 
 <details>
 
-<summary>Columbia University</summary>
-
-
-
-</details>
-
-<details>
-
 <summary>Cornell</summary>
 
 ## <mark style="color:blue;">Master of Engineering (M.Eng.) in Computer Science</mark>
