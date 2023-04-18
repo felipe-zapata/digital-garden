@@ -40,3 +40,7 @@ x == null is strictly equal to x === null || x === undefined
 ```
 
 Object properties don't contain values, they point to them. Property names are also case-sensitive.
+
+`const` prevents variable reassignment—not object mutation.
+
+`__proto__` prototype
