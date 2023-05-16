@@ -36,5 +36,6 @@
 * [Proyects](proyects/README.md)
   * [Wordpress theme](proyects/wordpress-theme.md)
   * [Colombian retail scrapper](proyects/colombian-retail-scrapper.md)
+* [Skydiving](skydiving.md)
 * [Technical writing and Idea sharing](technical-writing-and-idea-sharing.md)
 * [About me](about-me.md)
