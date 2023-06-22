@@ -18,6 +18,7 @@
   * [Technical Interviews](computer-science/technical-interviews/README.md)
     * [Frontend interviews](computer-science/technical-interviews/frontend-interviews.md)
   * [Testing](computer-science/testing.md)
+  * [Tools that I want to test](computer-science/tools-that-i-want-to-test.md)
 * [Data science and Machine Learning](data-science-and-machine-learning.md)
 * [Emigration](emigration/README.md)
 * [Engineering management](engineering-management/README.md)

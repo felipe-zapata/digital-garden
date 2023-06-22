@@ -79,11 +79,11 @@
 
 I'm currently on my jump number 17th
 
-* [ ] Hop and pop
+* [x] Hop and pop
   * Stable exit
   * Landing with downwind
-    * [ ] Pack a main parachute without assistance.
-    * [ ] Jump and deploy while stable within five seconds after exit from 3,500 feet AGL.
+    * [x] Pack a main parachute without assistance.
+    * [x] Jump and deploy while stable within five seconds after exit from 3,500 feet AGL.
 * [ ] Check dive
   * [ ] Demonstrate freefall control on all axes, with a backloop, front loop, and barrel roll
   * [ ] Dive a minimum of 100 feet after another jumper and dock safely without assistance from the other jumper (two times).
@@ -103,7 +103,7 @@ I'm currently on my jump number 17th
       8. planning and flying a logical landing pattern that promotes a smooth traffic flow and avoids other jumpers
       9. packing and preparing equipment for the next jump
 * [ ] Another jump
-  * [ ] Perform a braked approach and landing.
+  * [x] Perform a braked approach and landing.
   * [ ] Above 1,000 feet, perform front riser dives and turns (may be waived if insufficient strength).
 * [ ] Another
   * [ ] Above 2,500 feet, perform a maximum-performance 90-degree toggle turn, followed immediately by a turn of at least 180 degrees in the opposite direction (two times).
