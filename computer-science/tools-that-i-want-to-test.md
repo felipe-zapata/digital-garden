@@ -16,3 +16,5 @@ description: >-
 * [Selenium](https://www.selenium.dev/)
 * [Roboflow](https://roboflow.com/)
 * [EdgeDB](https://www.edgedb.com/)
+* [Deepnote](https://deepnote.com/)
+* [Openmined](https://courses.openmined.org/)
