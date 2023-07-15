@@ -15,3 +15,4 @@ description: >-
   * [Get started](https://www.modular.com/get-started)
 * [Selenium](https://www.selenium.dev/)
 * [Roboflow](https://roboflow.com/)
+* [EdgeDB](https://www.edgedb.com/)
