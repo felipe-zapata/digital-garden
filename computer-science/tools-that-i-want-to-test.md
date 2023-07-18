@@ -18,3 +18,4 @@ description: >-
 * [EdgeDB](https://www.edgedb.com/)
 * [Deepnote](https://deepnote.com/)
 * [Openmined](https://courses.openmined.org/)
+* [Oblivious.ai](https://www.oblivious.ai/)
