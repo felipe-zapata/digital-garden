@@ -72,7 +72,7 @@ description: >-
   * Curriculum: [https://cse.mit.edu/programs/sm/overview/](https://cse.mit.edu/programs/sm/overview/)
   * And thesis.
   * CSE SM students are expected to maintain a cumulative grade point average (GPA) of at least 4.5 (out of 5) during the course of their studies. _If a student’s term GPA is at or below 4.0 for two sequential terms, if a student receives an Unsatisfactory (“U”) grade in CSE.THG, or if a grade of C or lower is given in any subject, a warning from the CCSE directors will be issued to the student, and the MIT Graduate Academic Performance Group will be alerted._
-  * __[_https://ocw.mit.edu/_](https://ocw.mit.edu/)__
+  * [_https://ocw.mit.edu/_](https://ocw.mit.edu/)
 
 ## <mark style="color:purple;">MIT Leaders for global operations</mark>
 
@@ -256,7 +256,7 @@ description: >-
   * CS 3110 - Data Structures and Functional Programming
   * CS 2800 - Discrete Structures
   * CS 3410 - Computer System Organization and Programming
-* **English level requirements:** TOEFL **** Writing (>=20), Listening (>=15), Reading (>=20), and Speaking (>=22). IELTS **7/10**&#x20;
+* **English level requirements:** TOEFL Writing (>=20), Listening (>=15), Reading (>=20), and Speaking (>=22). IELTS **7/10**&#x20;
 * **Time commitment:**&#x20;
 * **Dates:**&#x20;
   * **October 1st** ( for Spring admissions - January start )
@@ -396,7 +396,7 @@ description: >-
 * **Requirements:**
   * Transcripts from every post-secondary institution attended (Successful applicants typically have a GPA of 3.5 or higher.)
   * Three recommendation letters
-  * Official [**Graduate Record Examination**](http://www.gre.org/) **** (GRE) General Test Scores\*&#x20;
+  * Official [**Graduate Record Examination**](http://www.gre.org/) (GRE) General Test Scores\*&#x20;
     * **Optional for Spring and Fall 2023 applications**
     * School Code: 2111
     * Most admitted applicants, however, have scores of 750 or higher on the Quantitative section of the test.

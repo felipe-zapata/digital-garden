@@ -10,7 +10,7 @@
 
 <details>
 
-<summary><strong></strong><a href="https://blog.pragmaticengineer.com/project-management-at-big-tech/"><strong>How big tech runs tech projects and the curious absence of scrum</strong></a><strong></strong></summary>
+<summary><a href="https://blog.pragmaticengineer.com/project-management-at-big-tech/"><strong>How big tech runs tech projects and the curious absence of scrum</strong></a></summary>
 
 **The summary of how companies manage projects is “it depends”.** And this should not be very surprising. A newly founded startup with five people will see success in different ways from a 1,000-person, slowly growing non-tech company.
 
@@ -23,7 +23,7 @@
 * _SAFe (Scaled Agile Framework):_ mentioned with large, non tech companies and a non-venture funded company.&#x20;
 * _Shape Up:_ mentioned for a few venture-funded companies.
 
-__[_Linear_](https://linear.app/), tool to check.
+[_Linear_](https://linear.app/), tool to check.
 
 ### **Project management approaches that do not work well:**
 
@@ -38,7 +38,7 @@ __[_Linear_](https://linear.app/), tool to check.
 * Who leads?, Tech lead or an engineer. No dedicated project managers.
 * First-class developer tooling is a given
 * Don't copy it, you would likely fail. _This is because the organizational structure of Big Tech greatly impacts how teams can – and do – execute._
-* __
+*
 
 </details>
 
