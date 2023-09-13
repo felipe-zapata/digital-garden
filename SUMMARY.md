@@ -18,6 +18,8 @@
       * [Astro](computer-science/programming-languages/javascript/astro.md)
       * [Just Javascript notes](computer-science/programming-languages/javascript/just-javascript-notes.md)
   * [Technical Interviews](computer-science/technical-interviews/README.md)
+    * [Web](computer-science/technical-interviews/web.md)
+    * [Javascript](computer-science/technical-interviews/javascript.md)
     * [React](computer-science/technical-interviews/react.md)
   * [Testing](computer-science/testing.md)
   * [Tools that I want to test](computer-science/tools-that-i-want-to-test.md)
