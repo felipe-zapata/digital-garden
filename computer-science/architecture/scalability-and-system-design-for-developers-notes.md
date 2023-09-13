@@ -90,4 +90,41 @@ Monitor it: cAdvisor, Prometheus, Grafana
 * Caching
 * CDN
 * Data compression
-* Avoid unnecessary requests response cycles
+* Avoid unnecessary request-response cycles
+
+## High availability
+
+is the ability of the system to stay online despite having failures at the infrastructural level in real time. Ensures minimum downtime.
+
+**Reasons for downtimes?**
+
+* Software crashes
+* Hardware failures
+* Human errors
+* Planned downtime
+
+**Fault tolerance:** System’s ability to stay up despite taking hits.
+
+For high availability use microservices (granular loosely coupled services).
+
+Upsides of microservices over monolith?
+
+* Easy management and maintenance
+* Ease of development
+* Ease of adding new features to a service without affecting other services
+* Scalability and high availability of the system
+
+### Redundancy
+
+Duplicating the server instances and keeping them on standby to take over in case any of the active server instances go down. It is the fail-safe backup mechanism in the deployment infrastructure. This eliminates single points of failure.
+
+### Replication
+
+Having a number of similar nodes running the workload together. There are no standby or passive instances.
+
+### High available cluster
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>All the possible components having a single point of failure are made redundant to ensure the availability of the service</p></figcaption></figure>
+
+**RAID:** Redundant array of independent disks
+
