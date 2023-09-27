@@ -5,6 +5,7 @@
 * [Computer Science](computer-science/README.md)
   * [Algorithms](computer-science/algorithms.md)
   * [Architecture](computer-science/architecture/README.md)
+    * [System design bits](computer-science/architecture/system-design-bits.md)
     * [Scalability and system design for developers' notes](computer-science/architecture/scalability-and-system-design-for-developers-notes.md)
   * [Data structures](computer-science/data-structures.md)
   * [Design patterns](computer-science/design-patterns.md)
