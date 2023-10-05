@@ -13,6 +13,9 @@ console.log(b);
 ```
 
 * **What is the difference between let, var and const?**
+  * _var_ declarations are globally scoped or function scoped while _let_ and _const_ are block scoped.
+  * var variables can be updated and re-declared within its scope; let variables can be updated but not re-declared; const variables can neither be updated nor re-declared.
+  *
 * **What is the output of the following code?**
 
 ```javascript
