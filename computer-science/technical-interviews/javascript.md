@@ -57,6 +57,24 @@ console.log(a.x);
 Object.assign({}, a)
 ```
 
+*   **What does the Promise.all function take as argument and what does it return?**
+
+    _Promise.all_ takes an iterable of promises as input and returns a single Promise. This returned promise fulfills when all of the input's promises fulfill with an array of the fulfillment values. It rejects when any of the input's promises rejects, with this first rejection reason.
+*   **Which module would you use to open and read a file in Node.js?**
+
+    _fs_ or the filesystem module.
+* **What are the different types of streams in Node.js**
+  * **Readable streams:** The readable stream is responsible for reading data from a source file
+  * **Writable streams:** The writable stream is responsible for writing data in specific formats to files
+  * **Duplex streams:** Duplex streams are streams that implement both readable and writable stream interfaces
+  * **Transform streams:** The transform stream is a type of duplex stream that reads data, transforms the data, and then writes the transformed data in a specified format
+*   **When to use Node.js streams?**
+
+    Streams come in handy when working with files too large to read into memory and process as a whole.
+*   **What does the 'await' keyword do in JS?**
+
+    The _await_ operator is used to wait for a Promise and get its fulfillment value. It can only be used inside an async function or at the top level of a module.
+
 ## Event loop
 
 * **What is the output from the following code?**
