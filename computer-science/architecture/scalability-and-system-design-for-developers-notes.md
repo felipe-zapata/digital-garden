@@ -128,3 +128,52 @@ Having a number of similar nodes running the workload together. There are no sta
 
 **RAID:** Redundant array of independent disks
 
+## Load balancing
+
+Load balancers enable our service to scale well and stay highly available when the traffic load increases. Load balancers distribute heavy traffic load across the servers running in the cluster based on several different algorithms.
+
+While processing a user request, if a server goes down, the load balancer automatically routes the future requests to other up-and-running server nodes in the cluster.
+
+Can be used as a single point of contact for all client requests or at the application component level to efficiently manage traffic directed towards any application component.
+
+Load balancers perform regular health checks of the servers to ensure availability.
+
+## DNSs
+
+Every online machine has a unique IP address that enables it to be contacted by other machines. DNSs are systems that translate domain names to IPs.
+
+### Components of a DNS
+
+* DNS Recursive nameserver aka DNS Resolver (generally managed by the ISP)
+* Root nameserver
+* Top-Level Domain nameserver
+* Authoritative nameserver
+
+### DNS query lookup process
+
+1. Browser sends a request to the _DNS Recursive nameserver._
+2. _DNS Recursive nameserver_ forwards it to the _Root nameserver_
+3. _Root nameserver_ gest the address of the _Top-level domain nameserver._ Top-level domain addresses like _.com_.
+4. _DNS Recursive nameserver_ (aka _DNS Resolver_) sends a request to the top-level domain nameserver to fetch the details of the domain name.
+5. _Top-level domain nameserver_ returns IP address of the domain name server (aka _Authoritative nameserver_).
+6. DNS resolver queries Authoritative nameserver and it returns the IP address of the website.
+7. DNS resolver caches the data and sends it to the browser.
+
+Cache at almost every layer (local machines, DNS resolver)
+
+### DNS load balancing
+
+Is set up at the DNS level on the _authoritative server_. Enables the authoritative server to return a list of IP addresses of a particular domain to the client. With every request, the server the server changes the order of the IP addresses in the list using round-robin.
+
+DNS load balancing is used by companies to distribute traffic across multiple data centers.
+
+Limitations:
+
+* Does not take into account the current load on the servers, content, request processing time, in-service status, and so on.
+* IP addresses are cached by the client's machine and the DNS resolver, there's always a possibility of a request being routed to a machine that is out of service.
+
+### Load balancing methods
+
+* **DNS Load Balancing**
+* **Hardware-based Load Balancing:** Sit in front of the application servers and distribute the load based on the number of currently open connections to a server, compute utilization, and several other parameters. More expensive than the software ones, have to be overprovisioned upfront to deal with peak traffic, harder and more expensive to maintain but with better performance overall.
+* **Software-based Load Balancing:** Can be installed on commodity hardware and VMs. More cost-effective and flexible, easier to maintain. Consider many parameters such as data hosted by the servers, cookies, HTTP headers, CPU and memory utilization, network load, etc. Also, perform regular health checks. Can use Round robin (sequential), weighted round robin (sequential taking into account compute and traffic handling capacity), least connections (weighting or not the requests), random, hash (using the same server per client) algorithms
