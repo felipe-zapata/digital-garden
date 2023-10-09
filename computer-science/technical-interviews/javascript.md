@@ -74,6 +74,23 @@ Object.assign({}, a)
 *   **What does the 'await' keyword do in JS?**
 
     The _await_ operator is used to wait for a Promise and get its fulfillment value. It can only be used inside an async function or at the top level of a module.
+* **What are the differences between Map, WeakMap, and Object data types?**
+  * **Objects:** Simple key-value storage with string and symbol keys.
+  * **Map:** Versatile key-value storage with any type of key and maintained insertion order. More performant than objects for frequent additions and removals.
+  * **WeakMap:** Specialized key-value storage for objects where you don't want the map to prevent garbage collection of its keys. You cannot iterate over WeakMaps
+*   **What is Garbage Collection and how does NodeJS apply it?**
+
+    Garbage collection is a form of automatic memory management used by many programming languages. Its primary function is to reclaim memory occupied by objects that are no longer in use.&#x20;
+
+    * Stack: Stores local variables and pointers.
+    * Heap: Store reference-type objects, like strings or objects. Has two main segments, New Space (Young generation) and Old Space (Old generation).
+
+    An object is a candidate for garbage collection when it is unreachable from the root node, so not referenced by the root object or any other active objects.\
+    V8 Javascript engine employs a stop-the-world garbage collector mechanism. it means that the program stops execution while garbage collection is in progress. That's why it's expensive.\
+    V8 engine uses:
+
+    * Scavenge collection: fast, for the Young generation.
+    * Mark-sweep collection: slower for the Old generation.
 
 ## Event loop
 
