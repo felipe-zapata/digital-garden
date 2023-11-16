@@ -57,6 +57,25 @@ Ideas for 1<>1's, strengthen relationships\
 
 </details>
 
+<details>
+
+<summary><a href="https://arxiv.org/pdf/2111.04302.pdf">How Developers and Managers Define and Trade Productivity for Quality</a></summary>
+
+* Developers and managers defined productivity in terms of all five dimensions of SPACE, but only a few mentioned developer satisfaction and well-being. Notably, developers and managers, as cohorts, were not that closely aligned in their views of productivity as _developers are more likely to define productivity in terms of activity, while managers are more likely to define productivity in terms of performance._
+
+<!---->
+
+* Space stands for S (satisfaction with work and personal well-being), P (performance and quality of development outcomes), A (activity as the count of actions or outputs), C (collaboration and communication among people), E (efficiency and flow of work with minimal interruptions).
+* Developer anticipation of how their managers define productivity is not aligned with how managers actually define productivity, as _managers are more likely to define productivity in terms of performance rather than activity. Developers also underestimated how often managers mentioned efficiency_ as an important aspect of productivity.
+* Many _managers have accurate insights into how ICs define productivity_ (notably in terms of activity, performance and efficiency), even though those views are not well-aligned with their own definitions of productivity.
+* Developers and managers defined quality, as co-horts, with the same inductively derived five themes (timeliness, robustness, delights users, meets collaboration needs, supports evolution). Over 70% of both cohorts mentioned robustness in their definitions of quality, while around a third mentioned "delights users" and is "evolvable".
+* Over 50% of developers and mageners reported _trading quality for productivity_, most to meet _short-term needs. Technical debt_ and _insufficient testing_ were reported as trade-offs to achieve higher productivity with _timely feature delivery_ that _meets user needs_ and _unblock others. Legacy code, lack of time, poor return on investment and a culture_ that prioritizes faster feature delivery over quality were drivers for there trade-offs.
+* Approximately one-third of developers and managers indicated they _do not trade quality for productivity,_ as they consider _quality an essential aspect of productivity (for new and legacy systems)._ However, _trading feature delivery for more quality can positivey or negatively impact developer satisfaction,_ depending on _team and manager priorities._
+* SPACE and TRUCE, frameworks for software quality.
+* TRUCE stands for The **timely** delivery of **robust** features that meets **user needs**, while enhancing **collaboration** with others and supporting the product's future **evolution**.
+
+</details>
+
 ### Videos
 
 * [ ] [What Does A Google Engineering Manager Do?](https://www.youtube.com/watch?v=wq37pl87Weg)

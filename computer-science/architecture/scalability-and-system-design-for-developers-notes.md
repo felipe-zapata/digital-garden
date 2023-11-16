@@ -177,3 +177,12 @@ Limitations:
 * **DNS Load Balancing**
 * **Hardware-based Load Balancing:** Sit in front of the application servers and distribute the load based on the number of currently open connections to a server, compute utilization, and several other parameters. More expensive than the software ones, have to be overprovisioned upfront to deal with peak traffic, harder and more expensive to maintain but with better performance overall.
 * **Software-based Load Balancing:** Can be installed on commodity hardware and VMs. More cost-effective and flexible, easier to maintain. Consider many parameters such as data hosted by the servers, cookies, HTTP headers, CPU and memory utilization, network load, etc. Also, perform regular health checks. Can use Round robin (sequential), weighted round robin (sequential taking into account compute and traffic handling capacity), least connections (weighting or not the requests), random, hash (using the same server per client) algorithms
+
+## Monolith vs Microservices
+
+* **Monolith:**
+  * **Pros:** Simplicity
+  * **Cons**: CD is hard, regression testing is often necessary, is a single point of failure, scalability is a challenge, cannot leverage heterogeneous technologies, not cloud-ready.
+* **Microservices:**
+  * **Pros:** Single responsibility and separation of concerns,&#x20;
+  * **Cons:**
