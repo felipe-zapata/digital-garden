@@ -421,3 +421,79 @@ description: >-
       MS Thesis](http://www.cs.columbia.edu/education/ms/MSThesis)
 
 </details>
+
+<details>
+
+<summary>Carnegie Mellon</summary>
+
+## [MS in Machine Learning](https://www.ml.cmu.edu/academics/primary-ms-machine-learning-masters.html)
+
+* **Cost:** $27.250 per semester. Less than 36 units/semester $757/unit.
+* **Duration:** A year and a half
+* **Requirements:**
+  * GRE
+* **English level requirements:**&#x20;
+* **Time commitment:** Full-time
+* **Dates:** Nov 29, Dec 13
+* **Places/Applications:**
+* **Link:** [MS in Machine Learning](https://www.ml.cmu.edu/academics/primary-ms-machine-learning-masters.html)
+* **Additional notes:**&#x20;
+  * Curriculum: [https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html](https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html)
+  * International students should be aware that student visas require that students complete the program full-time and finish the program by the end of their 3rd semester (in December).
+  * $100 application
+  * Can be part-time (not for me)
+
+## Master of Science in Computer Vision
+
+* **Cost:** $54,072/year + mandatory fees
+* **Duration:** 16-months
+* **Requirements:**&#x20;
+  * GRE
+  * TOEFL
+  * Résumé
+  * Statement of Purpose (1 to 2 pages)
+  * Undergraduate/Graduate (as applicable) Transcripts
+  * Letters of Recommendation (**3 REQUIRED**)
+* **English level requirements:**&#x20;
+* **Time commitment:** Full-time
+* **Dates:**&#x20;
+* **Places/Applications:**&#x20;
+* **Link:**&#x20;
+* **Additional notes:**
+  * Curriculum: [https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/curriculum/](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/curriculum/)
+  * Recommended skillset: [https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/recommended-skill-set/](https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/recommended-skill-set/)
+
+## [**Master of Software Engineering:**](https://mse.isri.cmu.edu/applicants/mse-as/eligibility.html)
+
+* **Cost:**&#x20;
+* **Duration:** 16-month
+* **Requirements:**&#x20;
+  1. **Statement of Purpose:** Your statement should include specific details about your professional goals and about your software engineering experience on teams and projects. The Statement of Purpose guidelines can be found [here](https://mse.isri.cmu.edu/0\_documents/20210903-statement-of-purpose-guidelines.pdf).
+  2. **Resume/CV**
+  3. **Letters of Recommendation:** At least three letters of recommendation should be submitted on your behalf from academic and/or industry personnel who have worked closely with you recently. Letters are typically written by faculty and supervisors. It is encouraged that you contact your recommenders as soon as possible in order to allow them enough time to compose your letter. The deadline for recommenders to submit your letter is approximately one week after the application deadline.
+  4. **Video Essay:** Prepare a personal video, no more than 3 minutes in length, that covers one of the following prompts from the guidelines which can be found [here](https://mse.isri.cmu.edu/0\_documents/video-essay-guidelines.pdf).
+  5. **Unofficial Transcripts:** You are required to upload electronic transcripts from each college/university that you attended in which you completed coursework. Do not send official transcripts at this time.
+  6. **Unofficial GRE Scores (optional)**: GRE scores are optional. An application without GRE scores is not at a disadvantage; however, applicants who have taken the GREs are encouraged to submit their scores. The GRE at Home Test is accepted.&#x20;
+  7. **Unofficial Language Exam Scores:** If you will be studying on an F-1 or J-1 visa, and English is not a native language for you (native language…meaning spoken at home and from birth), we are required to formally evaluate your English proficiency.\
+     \
+     We require applicants who will be studying on an F-1 or J-1 visa, and for whom English is not a native language, to demonstrate English proficiency via one of these standardized tests: TOEFL (preferred), IELTS, or Duolingo. We discourage the use of the "TOEFL ITP Plus for China," since speaking is not scored. Should you choose to use Duolingo, we may reach out to you after you submit your application to set up a video interview as well. Do not send official score reports at this time.\
+     \
+     _**We do not issue waivers for non-native speakers of English.**_ In particular, we do not issue waivers based on previous study at a U.S. high school, college, or university.  We also do not issue waivers based on previous study at an English-language high school, college, or university outside of the United States.  No amount of educational experience in English, regardless of which country it occurred in, will result in a test waiver.\
+     \
+     **Submit valid, recent scores**:  If as described above you are required to submit proof of English proficiency, your TOEFL, IELTS or Duolingo test scores will be considered valid as follows:\
+
+     * If you have not received a bachelor’s degree in the U.S., you will need to submit an English proficiency score no older than two years. (Scores from exams taken before Sept. 1, 2021, will not be accepted.)
+     * If you are currently working on or have received a bachelor's and/or a master's degree in the U.S., you may submit an expired test score up to five years old. (Scores from exams taken before Sept. 1, 2018, will not be accepted.)
+  8. **Online Coding Assessment:** Invitations will be sent out two days after the application deadline. Applicants have approximately one week to complete the assessment. Previously, there have been anywhere from 3-4 coding tests of varying levels of difficulty that candidates must complete. There is a time limit, but it is rare for an applicant to run out of time. Additionally, applicants may have the opportunity to complete a practice test. Tests may be submitted in any coding language. Instructions on how to access and complete the assessment will be included in the invitation.
+  9. This test is only an assessment, students are accepted with both strong and weak programming ability. _Any evidence of cheating will result in rejection of the application._
+* **English level requirements:**&#x20;
+* **Time commitment:**&#x20;
+* **Dates:**&#x20;
+* **Places/Applications:**
+* **Link:**&#x20;
+* **Additional notes:**
+  * In 2020, admitted students had an average of 4 years of industry experience in software engineering-related, full-time positions. In addition, admitted students typically have an average 156 GRE verbal score, and 167 GRE quantitative score. Admitted international students typically average a 103 total TOEFL score. That year, the program admitted 39% women and 61% men.
+  * Online option: [https://mse.isri.cmu.edu/applicants/mse-as-online/index.html](https://mse.isri.cmu.edu/applicants/mse-as-online/index.html)
+  * Curriculum: [https://mse.isri.cmu.edu/applicants/mse-as/plan.html](https://mse.isri.cmu.edu/applicants/mse-as/plan.html)
+
+</details>
