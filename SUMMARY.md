@@ -37,6 +37,7 @@
 * [Math](math.md)
 * [Masters](masters/README.md)
   * [Options](masters/options.md)
+  * [Courses](masters/courses.md)
 * [Philosophy](philosophy.md)
 * [Procrastination, time management, and perfectionism](procrastination-time-management-and-perfectionism/README.md)
   * [Podcasts](procrastination-time-management-and-perfectionism/podcasts.md)
