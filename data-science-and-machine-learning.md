@@ -1,5 +1,12 @@
 # Data science and Machine Learning
 
+## Path
+
+1. Andrew Ng Machine Learning [Coursera course](https://www.coursera.org/learn/machine-learning)
+2. [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.stanford.edu/2016/) - [https://www.youtube.com/watch?v=NfnWJUyUJYU\&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC](https://www.youtube.com/watch?v=NfnWJUyUJYU\&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+3. [Deep learning NYU](https://atcold.github.io/NYU-DLFL22/) - [https://www.youtube.com/watch?v=00s9ireCnCw](https://www.youtube.com/watch?v=00s9ireCnCw)
+4. Practical deep learning for Coders [course](https://course.fast.ai/)
+
 ## Resources
 
 [UN Big Data](https://unstats.un.org/bigdata/index.cshtml)
@@ -10,11 +17,13 @@
 * [ ] Data mining and applications [Stanford Certificate](https://online.stanford.edu/programs/data-mining-and-applications-graduate-certificate)
 * [ ] Deep Learning Specialization [Coursera - deeplearning.ai](https://www.coursera.org/specializations/deep-learning?utm\_source=deeplearningai\&utm\_medium=institutions\&utm\_campaign=WebsiteCoursesDLSTopButton)
 * [ ] [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-* [ ] Practical deep learning for coders [course](https://course.fast.ai/)
+* [ ] Practical deep learning for Coders [course](https://course.fast.ai/)
 * [ ] [Georgia Tech OMS CS](https://www.cc.gatech.edu/future/masters/mscs/program)
-* [ ] [Fast.ai](https://www.fast.ai/)
-* [ ] [Deep learning NYU](https://atcold.github.io/NYU-DLSP21/)
+* [ ] [Deep learning NYU](https://atcold.github.io/NYU-DLFL22/)
 * [ ] [Machine Learning Engineering for Production (MLOps) Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?utm\_source=deeplearning-ai\&utm\_medium=institutions\&utm\_campaign=20210423-mlep-1-deeplearning-ai-institutions-dlai-website)
+* [ ] [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.stanford.edu/2016/)
+* [ ] [CS230 Deep Learning](https://cs230.stanford.edu/)
+* [ ] [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/) NYU
 
 ### Books
 
@@ -26,6 +35,7 @@
 * [ ] [Machine Learning for Algorithmic Trading](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715)
 * [ ] [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 * [ ] [The book of why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X)
+* [ ] [Deep learning](https://www.deeplearningbook.org/) book
 
 ### Articles
 
