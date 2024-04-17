@@ -20,7 +20,7 @@ Implementation in javascript: [Stacks](https://github.com/felipe-zapata/coding/b
 * isEmpty(): Returns true if the stack is empty
 * get length(): Returns the number of items in the stack
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ### Queues
 
@@ -37,7 +37,7 @@ Implementation in javascript: [Queues](https://github.com/felipe-zapata/coding/b
 * isEmpty(): Check whether the queue is empty
 * get length(): Returns the length of the queue
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ### Linked lists
 

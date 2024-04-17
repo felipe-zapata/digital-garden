@@ -27,7 +27,7 @@
 
 ### Books
 
-* [ ] Hands-on [Machine Learning Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook-dp-B07XGF2G87/dp/B07XGF2G87/ref=mt\_kindle?\_encoding=UTF8\&me=\&qid=)
+* [ ] Hands-on Machine Learning [Book](https://www.amazon.com/-/es/Aur%C3%A9lien-G%C3%A9ron/dp/1098125975/ref=tmm\_pap\_swatch\_0?\_encoding=UTF8\&sr=8-1)
 * [ ] [Inferential thinking](https://www.inferentialthinking.com/chapters/intro.html)
 * [ ] [Redesigning AI](https://www.amazon.com/dp/1946511625/)
 * [ ] [No ML Degree](https://www.amazon.com/dp/B0B1XFF1F8)

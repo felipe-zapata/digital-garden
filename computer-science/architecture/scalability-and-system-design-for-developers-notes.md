@@ -13,7 +13,7 @@ An example of coupling of backend and client code is JSP.
 * Single HTTP GET request
 *   Pulling data dynamically at regular intervals using AJAX.(polling)
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
     TTL: Time To Live for every request. If the client does not receive a response from the server within the TTL, the browser kills the connection.
 
