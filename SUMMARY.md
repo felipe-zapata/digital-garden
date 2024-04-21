@@ -49,5 +49,7 @@
 * [Skydiving](skydiving/README.md)
   * [A license](skydiving/a-license.md)
   * [B license](skydiving/b-license.md)
+  * [Belly progression](skydiving/belly-progression.md)
+  * [Canopy flying](skydiving/canopy-flying.md)
 * [Technical writing and Idea sharing](technical-writing-and-idea-sharing.md)
 * [About me](about-me.md)

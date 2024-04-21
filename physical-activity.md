@@ -1,6 +1,20 @@
 # Physical activity
 
+<details>
+
+<summary>For skydiving</summary>
+
 [Bodywork for flyers](https://www.kravtofly.com/courses/bodywork-for-flyers)
+
+Grip strength - [https://www.youtube.com/watch?v=PHzz-nJcXiU\&list=PLFfhO7WNmG6o3pI-0wby-8d25eNmowfpT](https://www.youtube.com/watch?v=PHzz-nJcXiU\&list=PLFfhO7WNmG6o3pI-0wby-8d25eNmowfpT)
+
+Flare strength and coordination - [https://www.youtube.com/watch?v=CP\_tLi--E88](https://www.youtube.com/watch?v=CP\_tLi--E88) - [https://www.youtube.com/watch?v=OOoSYwviq5I](https://www.youtube.com/watch?v=OOoSYwviq5I)
+
+Leg strength - [https://www.youtube.com/watch?v=YPgW7WdMdsc](https://www.youtube.com/watch?v=YPgW7WdMdsc)
+
+Warm-up - [https://www.youtube.com/watch?v=QqqAVcbL7y4](https://www.youtube.com/watch?v=QqqAVcbL7y4)
+
+</details>
 
 <details>
 
