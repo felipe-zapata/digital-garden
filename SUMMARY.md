@@ -38,6 +38,7 @@
 * [Masters](masters/README.md)
   * [Options](masters/options.md)
   * [Courses](masters/courses.md)
+* [NYU Tandon Bridge](nyu-tandon-bridge.md)
 * [Physical activity](physical-activity.md)
 * [Philosophy](philosophy.md)
 * [Procrastination, time management, and perfectionism](procrastination-time-management-and-perfectionism/README.md)
