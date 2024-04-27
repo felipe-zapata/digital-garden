@@ -11,6 +11,8 @@
   * [Design patterns](computer-science/design-patterns.md)
   * [DevOps](computer-science/devops/README.md)
     * [Docker](computer-science/devops/docker.md)
+  * [Fundamentals](computer-science/fundamentals/README.md)
+    * [Computational thinking for problem solving](computer-science/fundamentals/computational-thinking-for-problem-solving.md)
   * [Programming languages](computer-science/programming-languages/README.md)
     * [Cuda](computer-science/programming-languages/cuda.md)
     * [Flutter](computer-science/programming-languages/flutter.md)

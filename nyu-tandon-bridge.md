@@ -58,7 +58,9 @@ Syllabus (?): [Link](https://www.reddit.com/r/NYUBridgeToTandon/comments/vguicj/
 
 * [ ] [The Secret Rules of Modern Living Algorithms - Documentary](https://www.youtube.com/watch?v=kiFfp-HAu64)&#x20;
 * [ ] [Computer Networks](https://www.youtube.com/watch?v=3QhU9jd03a0)
-* [ ] [Computational Thinking for Problem Solving - Coursera](https://www.coursera.org/learn/computational-thinking-problem-solving)
+*   [ ] [Computational Thinking for Problem Solving - Coursera](https://www.coursera.org/learn/computational-thinking-problem-solving)
+
+    [computational-thinking-for-problem-solving.md](computer-science/fundamentals/computational-thinking-for-problem-solving.md "mention")
 * [ ] [Learn C++ - Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus)
 * [ ] [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) (C++)
 * [ ] Course [I](https://www.youtube.com/watch?v=A3Ffwsnad0k\&list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz) and [II](https://www.youtube.com/watch?v=spEjNcd37IQ\&list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ) (Discrete math)
