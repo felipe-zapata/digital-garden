@@ -14,6 +14,8 @@
   * [Fundamentals](computer-science/fundamentals/README.md)
     * [Computational thinking for problem solving](computer-science/fundamentals/computational-thinking-for-problem-solving.md)
   * [Programming languages](computer-science/programming-languages/README.md)
+    * [C++](computer-science/programming-languages/c++/README.md)
+      * [Codeacademy C++ course notes](computer-science/programming-languages/c++/codeacademy-c++-course-notes.md)
     * [Cuda](computer-science/programming-languages/cuda.md)
     * [Flutter](computer-science/programming-languages/flutter.md)
     * [Python](computer-science/programming-languages/python.md)
