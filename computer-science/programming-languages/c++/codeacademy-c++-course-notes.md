@@ -65,5 +65,22 @@ Arithmetic operators:\
 \- /: division\
 \- %: modulo (divides and gives the remainder)
 
+Conditionals:\
+\- if, else if, else\
+\- switch
+
+Relational operators:\
+\- ==\
+\- !=\
+\- >\
+\- <\
+\- >=\
+\- <=
+
+Logical operators:\
+\- &&\
+\- ||\
+\- !
+
 
 
