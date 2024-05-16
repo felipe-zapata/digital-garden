@@ -24,6 +24,7 @@
 * [ ] [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.stanford.edu/2016/)
 * [ ] [CS230 Deep Learning](https://cs230.stanford.edu/)
 * [ ] [Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/) NYU
+* [ ] [Machine learning engineer learning path](https://www.cloudskillsboost.google/paths/17) from Google Cloud
 
 ### Books
 
