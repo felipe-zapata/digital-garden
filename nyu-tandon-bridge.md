@@ -57,7 +57,7 @@ Syllabus (?): [Link](https://www.reddit.com/r/NYUBridgeToTandon/comments/vguicj/
 ## My path
 
 * [ ] [The Secret Rules of Modern Living Algorithms - Documentary](https://www.youtube.com/watch?v=kiFfp-HAu64)&#x20;
-* [ ] [Computer Networks](https://www.youtube.com/watch?v=3QhU9jd03a0)
+* [x] [Computer Networks](https://www.youtube.com/watch?v=3QhU9jd03a0)
 *   [x] [Computational Thinking for Problem Solving - Coursera](https://www.coursera.org/learn/computational-thinking-problem-solving)
 
     [computational-thinking-for-problem-solving.md](computer-science/fundamentals/computational-thinking-for-problem-solving.md "mention")
