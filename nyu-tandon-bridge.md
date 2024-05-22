@@ -7,7 +7,7 @@
 * [ ] Statement of Purpose
 * [ ] Transcripts
   * [ ] Translation [https://www.ece.org/ECE/Credential-Evaluations/US-Institutions/Services-and-Fees](https://www.ece.org/ECE/Credential-Evaluations/US-Institutions/Services-and-Fees) ($195 USD)
-  * [ ] Univalle [http://registro.univalle.edu.co/certificados](http://registro.univalle.edu.co/certificados) ($198.800 COP)
+  * [x] Univalle [http://registro.univalle.edu.co/certificados](http://registro.univalle.edu.co/certificados) ($198.800 COP)
 * [ ] Deadlines - Fall 2024 (8/1/24)&#x20;
 * [ ] Cost - $1.850 USD
 
