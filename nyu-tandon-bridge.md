@@ -61,7 +61,7 @@ Syllabus (?): [Link](https://www.reddit.com/r/NYUBridgeToTandon/comments/vguicj/
 *   [x] [Computational Thinking for Problem Solving - Coursera](https://www.coursera.org/learn/computational-thinking-problem-solving)
 
     [computational-thinking-for-problem-solving.md](computer-science/fundamentals/computational-thinking-for-problem-solving.md "mention")
-* [ ] [Learn C++ - Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus)
+* [x] [Learn C++ - Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus)
 * [ ] [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) (C++)
 * [ ] Course [I](https://www.youtube.com/watch?v=A3Ffwsnad0k\&list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz) and [II](https://www.youtube.com/watch?v=spEjNcd37IQ\&list=PLl-gb0E4MII0sGLCJeqDB3y63HZ6lM5LJ) (Discrete math)
 * [ ] [Introduction to logic](https://intrologic.stanford.edu/intrologic/public/lessons.php)
