@@ -5,6 +5,7 @@
 * [Computer Science](computer-science/README.md)
   * [Algorithms](computer-science/algorithms.md)
   * [Architecture](computer-science/architecture/README.md)
+    * [Design a web crawler](computer-science/architecture/design-a-web-crawler.md)
     * [System design interview: An insiders guide notes](computer-science/architecture/system-design-interview-an-insiders-guide-notes.md)
     * [System design bits](computer-science/architecture/system-design-bits.md)
     * [Scalability and system design for developers' notes](computer-science/architecture/scalability-and-system-design-for-developers-notes.md)

@@ -53,14 +53,39 @@ description: Chapter 1, 2, 3, 9
   * "Cache on the edge"
   * Considerations:
     * Cost
-    * Setting an appropirate cache expiration time (TTL)
+    * Setting an appropriate cache expiration time (TTL)
     * CDN fallback
     * Invalidating files
       * Remove with API
-    * Versioning\
+    * Versioning
+* Stateless (review)
+* \
 
 
 
 
 * Single server setup (web app, database, cache, etc.)
 * Web tier server, data tier (database) server
+
+
+
+## Chapter 2: Back-of-the-envelope estimation
+
+
+
+
+
+## Chapter 3: A framework for system design interviews
+
+1. Understand the problem and establish the design scope
+   * What specific features are we going to build?
+   * How many users does the product have?
+   * How fast does the company anticipate to scape up?
+   * What is the company's technology stack?
+2. Propose high-level design and get buy-in
+3. Design deep dive
+4. Wrap up
+
+## Chapter 9: Design a web crawler
+
+1. &#x20;
