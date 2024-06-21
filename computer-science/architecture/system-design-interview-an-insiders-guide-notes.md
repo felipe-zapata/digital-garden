@@ -1,7 +1,3 @@
----
-description: Chapter 1, 2, 3, 9
----
-
 # System design interview: An insiders guide notes
 
 ## Chapter 1: Scale from zero to millions of users
@@ -71,9 +67,7 @@ description: Chapter 1, 2, 3, 9
 
 ## Chapter 2: Back-of-the-envelope estimation
 
-
-
-
+Latency and availability numbers
 
 ## Chapter 3: A framework for system design interviews
 
@@ -86,6 +80,5 @@ description: Chapter 1, 2, 3, 9
 3. Design deep dive
 4. Wrap up
 
-## Chapter 9: Design a web crawler
+## Chapter 4: Design a rate limiter
 
-1. &#x20;
