@@ -94,6 +94,10 @@ Object.assign({}, a)
 
 ## Event loop
 
+* **What is the difference between null and undefined?**
+
+## Event loop
+
 * **What is the output from the following code?**
 
 ```javascript

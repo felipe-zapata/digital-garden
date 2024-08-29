@@ -27,6 +27,7 @@
   * [Technical Interviews](computer-science/technical-interviews/README.md)
     * [Javascript](computer-science/technical-interviews/javascript.md)
     * [Python](computer-science/technical-interviews/python.md)
+    * [Management](computer-science/technical-interviews/management.md)
     * [React](computer-science/technical-interviews/react.md)
     * [Web](computer-science/technical-interviews/web.md)
   * [Testing](computer-science/testing.md)
