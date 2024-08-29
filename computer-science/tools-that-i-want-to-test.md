@@ -21,3 +21,6 @@ description: >-
 * [Oblivious.ai](https://www.oblivious.ai/)
 * FastAPI ([template](https://github.com/tiangolo/full-stack-fastapi-template))
 * [Webflow](https://webflow.com/)
+* [Squarespace](https://www.squarespace.com/)
+* [v0.dev](https://v0.dev/)
+* [Replicate](https://replicate.com/)
