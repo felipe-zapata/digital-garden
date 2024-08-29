@@ -35,6 +35,7 @@
 * [Emigration](emigration/README.md)
 * [Engineering management](engineering-management/README.md)
   * [Behavioral interview](engineering-management/behavioral-interview.md)
+  * [Interviews](engineering-management/interviews.md)
   * [Developer experience](engineering-management/developer-experience.md)
   * [Growth framework](engineering-management/growth-framework.md)
   * [Project management](engineering-management/project-management.md)
