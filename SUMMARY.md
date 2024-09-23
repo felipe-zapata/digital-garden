@@ -2,6 +2,7 @@
 
 * [Welcome!](README.md)
 * [Business, leadership and strategic vision](business-leadership-and-strategic-vision.md)
+* [Crawling and scraping](crawling-and-scraping.md)
 * [Computer Science](computer-science/README.md)
   * [Algorithms](computer-science/algorithms.md)
   * [Architecture](computer-science/architecture/README.md)
