@@ -49,6 +49,7 @@
 * [Masters](masters/README.md)
   * [Options](masters/options.md)
   * [Courses](masters/courses.md)
+  * [Decisions](masters/decisions.md)
 * [NYU Tandon Bridge](nyu-tandon-bridge.md)
 * [Physical activity](physical-activity.md)
 * [Philosophy](philosophy.md)
