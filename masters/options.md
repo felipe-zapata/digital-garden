@@ -334,7 +334,7 @@ description: >-
 * **Time commitment:**&#x20;
 * **Dates:** March 1, 2023.
 * **Places/Applications:**
-* **Link:** [Master in computer science (MSCS)](https://cs.nyu.edu/home/master/prospective\_mscs.html)
+* **Link:** [Master in computer science (MSCS)](https://cs.nyu.edu/home/master/prospective_mscs.html)
 * **Additional notes:** 36 credits
 
 ## <mark style="color:blue;">Computer Science, M.S.</mark>
@@ -468,17 +468,17 @@ description: >-
 * **Cost:**&#x20;
 * **Duration:** 16-month
 * **Requirements:**&#x20;
-  1. **Statement of Purpose:** Your statement should include specific details about your professional goals and about your software engineering experience on teams and projects. The Statement of Purpose guidelines can be found [here](https://mse.isri.cmu.edu/0\_documents/20210903-statement-of-purpose-guidelines.pdf).
+  1. **Statement of Purpose:** Your statement should include specific details about your professional goals and about your software engineering experience on teams and projects. The Statement of Purpose guidelines can be found [here](https://mse.isri.cmu.edu/0_documents/20210903-statement-of-purpose-guidelines.pdf).
   2. **Resume/CV**
   3. **Letters of Recommendation:** At least three letters of recommendation should be submitted on your behalf from academic and/or industry personnel who have worked closely with you recently. Letters are typically written by faculty and supervisors. It is encouraged that you contact your recommenders as soon as possible in order to allow them enough time to compose your letter. The deadline for recommenders to submit your letter is approximately one week after the application deadline.
-  4. **Video Essay:** Prepare a personal video, no more than 3 minutes in length, that covers one of the following prompts from the guidelines which can be found [here](https://mse.isri.cmu.edu/0\_documents/video-essay-guidelines.pdf).
+  4. **Video Essay:** Prepare a personal video, no more than 3 minutes in length, that covers one of the following prompts from the guidelines which can be found [here](https://mse.isri.cmu.edu/0_documents/video-essay-guidelines.pdf).
   5. **Unofficial Transcripts:** You are required to upload electronic transcripts from each college/university that you attended in which you completed coursework. Do not send official transcripts at this time.
   6. **Unofficial GRE Scores (optional)**: GRE scores are optional. An application without GRE scores is not at a disadvantage; however, applicants who have taken the GREs are encouraged to submit their scores. The GRE at Home Test is accepted.&#x20;
   7. **Unofficial Language Exam Scores:** If you will be studying on an F-1 or J-1 visa, and English is not a native language for you (native language…meaning spoken at home and from birth), we are required to formally evaluate your English proficiency.\
      \
      We require applicants who will be studying on an F-1 or J-1 visa, and for whom English is not a native language, to demonstrate English proficiency via one of these standardized tests: TOEFL (preferred), IELTS, or Duolingo. We discourage the use of the "TOEFL ITP Plus for China," since speaking is not scored. Should you choose to use Duolingo, we may reach out to you after you submit your application to set up a video interview as well. Do not send official score reports at this time.\
      \
-     _**We do not issue waivers for non-native speakers of English.**_ In particular, we do not issue waivers based on previous study at a U.S. high school, college, or university.  We also do not issue waivers based on previous study at an English-language high school, college, or university outside of the United States.  No amount of educational experience in English, regardless of which country it occurred in, will result in a test waiver.\
+     &#xNAN;_**We do not issue waivers for non-native speakers of English.**_ In particular, we do not issue waivers based on previous study at a U.S. high school, college, or university.  We also do not issue waivers based on previous study at an English-language high school, college, or university outside of the United States.  No amount of educational experience in English, regardless of which country it occurred in, will result in a test waiver.\
      \
      **Submit valid, recent scores**:  If as described above you are required to submit proof of English proficiency, your TOEFL, IELTS or Duolingo test scores will be considered valid as follows:\
 
