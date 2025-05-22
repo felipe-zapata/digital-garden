@@ -37,7 +37,7 @@ Implementation in javascript: [Queues](https://github.com/felipe-zapata/coding/b
 * isEmpty(): Check whether the queue is empty
 * get length(): Returns the length of the queue
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ### Linked lists
 

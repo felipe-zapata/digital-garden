@@ -88,9 +88,9 @@ Hire object-oriented people
 
 ![](<../.gitbook/assets/image (2) (1) (1).png>)Needs to be done well
 
-![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)_Servant leadership_
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)_Servant leadership_
 
 _Need_ is company needs
 

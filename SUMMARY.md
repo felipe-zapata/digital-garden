@@ -10,6 +10,7 @@
     * [System design bits](computer-science/architecture/system-design-bits.md)
     * [Scalability and system design for developers' notes](computer-science/architecture/scalability-and-system-design-for-developers-notes.md)
     * [Designing Data Intensive Applications notes](computer-science/architecture/designing-data-intensive-applications-notes.md)
+    * [Building effective agent's notes](computer-science/architecture/building-effective-agents-notes.md)
   * [Data structures](computer-science/data-structures.md)
   * [Design patterns](computer-science/design-patterns.md)
   * [DevOps](computer-science/devops/README.md)
