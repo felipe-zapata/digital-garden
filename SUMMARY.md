@@ -67,3 +67,4 @@
   * [Canopy flying](skydiving/canopy-flying.md)
 * [Technical writing and Idea sharing](technical-writing-and-idea-sharing.md)
 * [About me](about-me.md)
+* [Robotics](robotics.md)
